@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import ReactEcharts from "echarts-for-react";
-
+// kal ana
 function App() {
     const op = {
         title: {
